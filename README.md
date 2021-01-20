@@ -1,0 +1,3 @@
+Technologys used:
+- Python
+- SQL
